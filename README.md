@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @atak-05
+- 👀 I’m interested in python 
+- 🌱 I’m currently learning django, flask, machine learning , ai
+- 💞️ i love all animal
+- 📫 How to reach me "gizemcirikka@gmail.com"
+
+<!---
+atak-05/atak-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
