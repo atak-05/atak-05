@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @atak-05
 - 👀 I’m interested in python 
 - 🌱 I’m currently learning Django, Flask, REST API, Machine Learning, AI, MYSQL 
+- 🔭 I’m currently doing master degree for software engineering
 - 💞️ i love all animal
 - 📫 How to reach me "gizemcirikka@gmail.com"
 
