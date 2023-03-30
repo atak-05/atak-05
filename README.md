@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gizy
+- 👋 Hi, I’m gizem
 - 👀 I’m interested in python , java , javascript
 - 🌱 I’m currently learning Django, Flask, REST API, Machine Learning, AI, MYSQL 
 - 🔭 I’m currently doing master degree for software engineering
