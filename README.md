@@ -3,8 +3,7 @@
 
 
 
-https://i.gifer.com/fetch/w300-preview/9c/9c29672bb8f6450fb1ecfe0f3c2e5bc3.gif
-
+C:\Users\gizem\OneDrive\Masaüstü\Vdmv.gif
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atak-05&label=Profile%20views&color=0e75b6&style=flat" alt="atak-05" /> </p>
