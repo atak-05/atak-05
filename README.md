@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gizem</h1>
-<h3 align="center">I am master student in Software Engineering. A passionate full stack developer. Additionally my hobbies is working on AI Chatbot</h3>
+
 <p>
 <img align=center  width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif" alt="">
-<img align=center  width="400" src="https://hips.hearstapps.com/hmg-prod/images/sep-24-2019-11-37-27-1569339480.gif?crop=1xw:0.9230769230769231xh;center,top&resize=1200:*" alt="">
+<h1 align="center">Hi 👋, I'm Gizem</h1>
+<h3 align="center">I am master student in Software Engineering. A passionate full stack developer. Additionally my hobbies is working on AI Chatbot</h3>
 </p>
 
 
@@ -27,7 +27,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/gizem-tuncer-2012-2017/](https://www.linkedin.com/in/gizem-tuncer-2012-2017/)
 
 - 💕 My love **All Animal**
-
+<img align=center  width="400" src="https://hips.hearstapps.com/hmg-prod/images/sep-24-2019-11-37-27-1569339480.gif?crop=1xw:0.9230769230769231xh;center,top&resize=1200:*" alt="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/atak05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atak05" height="30" width="40" /></a>
