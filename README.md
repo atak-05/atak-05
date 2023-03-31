@@ -1,10 +1,4 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-</head>
+
 <body>
 <div class="row" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img width="300" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif" alt="">
