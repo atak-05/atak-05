@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gizem-tuncer-2012-2017/](https://www.linkedin.com/in/gizem-tuncer-2012-2017/)
 
-- 💕 My love **All Animals**
+- 💕 **All Animals**
 <img align=center  width="400" src="https://hips.hearstapps.com/hmg-prod/images/sep-24-2019-11-37-27-1569339480.gif?crop=1xw:0.9230769230769231xh;center,top&resize=1200:*" alt="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
