@@ -3,7 +3,7 @@
 <div class="row" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <img width="300" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif" alt="">
     <h1>Hi 👋, I'm Gizem</h1>
-    <h3>I am master student in Software Engineering. A passionate full stack developer. Additionally my hobbies is working on AI Chatbot</h3> </img>
+    <h3>I am master student in Software Engineering. A passionate web developing and Ml/Ai. Additionally my hobbies is working on AI Chatbot</h3> </img>
 </div>
 
 
