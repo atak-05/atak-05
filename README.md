@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [master degree](https://github.com/atak-05/java-oop)
 
-- 🌱 I’m currently learning **Django, Flask, REST API, React, Spring Boot, English**
+- 🌱 I’m currently learning **Django, Flask, REST API, ML, AI, English**
 
 - 👯 I’m looking to collaborate on [Algorithm, Java, Python, AI, ML, SQL](https://github.com/atak-05/algorithm)
 
